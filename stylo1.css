@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(245, 245, 241);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid black;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: white;
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
